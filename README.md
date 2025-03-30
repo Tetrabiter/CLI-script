@@ -6,6 +6,7 @@ Command for setup your tg-bot via CLI-script
 node ~/Desktop/cli/index.mjs setup project-name
 `
 this command creates followind folder structure
+
 `
 telegram-bot/
 │── src/
@@ -35,5 +36,4 @@ telegram-bot/
 │── package.json
 │── tsconfig.json
 │── README.md
-
 `
